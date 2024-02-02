@@ -2,4 +2,5 @@
 layout: home
 title: Home
 ---
-This is the home page
+Welcome to the Blog of Rory Smith.  
+Feel free to browse the posts on a variety of topics below.
