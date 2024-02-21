@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-This is how you can reach me:
-my email is rwordsmith@proton.me
+This is how you can reach me:  
+My email is rwordsmith@proton.me
