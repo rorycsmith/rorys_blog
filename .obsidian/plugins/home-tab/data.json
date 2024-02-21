@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "2024-02-21-obsidian  made.md",
-      "timestamp": 1708539554150
+      "filepath": "_posts/2024-02-21-obsidian  made.md",
+      "timestamp": 1708540323962
     },
     {
-      "filepath": "about.md",
-      "timestamp": 1708539446644
+      "filepath": "_posts/2024-02-19-blog-entry.md",
+      "timestamp": 1708540320133
     },
     {
-      "filepath": "contact.md",
-      "timestamp": 1708539410583
+      "filepath": "_posts/2024-02-18-no-name.md",
+      "timestamp": 1708540318835
+    },
+    {
+      "filepath": "_posts/2024-02-02-The-Adventures-of-Lucas-Wander.md",
+      "timestamp": 1708540317408
+    },
+    {
+      "filepath": "_posts/2024-02-01-my-first-post.md",
+      "timestamp": 1708540315311
     }
   ],
   "starredFileStore": [],
